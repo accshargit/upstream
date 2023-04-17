@@ -3,3 +3,7 @@ my git commit
 my first change from rep 
 
 changes using upstream 
+
+==========
+
+with new branch 
